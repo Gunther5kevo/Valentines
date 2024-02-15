@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fde6e6; 
+}
+  
+  .container {
+    text-align: center;
+    margin-top: 20vh;
+  }
+  
+  h1 {
+    color: #e63946; 
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    color: #a8dadc;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1.8rem; 
+  }
+  p {
+    font-size: 1.2rem;
+    color: #333; 
+    margin-bottom: 10px;
+  }
+  
+  img {
+    width: 120px; 
+    height: auto; 
+    margin: 20px; 
+    border-radius: 50%; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  }
+  
